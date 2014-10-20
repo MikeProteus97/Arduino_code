@@ -1,5 +1,6 @@
 /* PROGRAMA SEMAFOROS */
-
+// By Michael Vargas 
+// mikeandroid97@gmail.com  \ @MichaelVargas97
 #define veh_Rojo1      7         //pines de ubicación de LEDS
 #define veh_Amarillo1  6
 #define veh_Verde1     5                  
